@@ -1,2 +1,2 @@
 # python-numpy
-Machine Learning Tutorial
+Python Numpy Tutorial
