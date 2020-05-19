@@ -6,3 +6,6 @@ Python Numpy Tutorial 1 - Introduction & Array Creation
 
 Python Numpy Tutorial 2 - Array From Existing Data
 <br>https://www.youtube.com/watch?v=mkf0Kk5-60I
+
+Python Numpy Tutorial 3 - Array Manipulation
+<br>https://www.youtube.com/watch?v=E6aL4mbTzmg
